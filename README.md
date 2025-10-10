@@ -6,8 +6,8 @@
 
 <p align="center">
   <em>Creator at Woitzik Labs. Sharing practical tutorials on modern infrastructure.</em><br>
-  <em> Homelab | Automation | IaC with Terraform</em><br>
-  <em>🎬 Find my videos on YouTube (link below).</em>
+  <em>Homelab | Automation | IaC with Terraform</em><br>
+  <em>Find my videos on YouTube (link below).</em>
 </p>
 
 ---
