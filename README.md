@@ -2,17 +2,17 @@
   <img src="https://github.com/Woitzik-Labs/woitzik-labs/raw/main/assets/dwlabs.png" alt="Woitzik Labs Logo" width="150"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm David. Welcome to Woitzik Labs!</h1>
+<h1 align="center">Hi, I'm David. Welcome to Woitzik Labs!</h1>
 
 <p align="center">
   <em>Creator at Woitzik Labs. Sharing practical tutorials on modern infrastructure.</em><br>
-  <em>💡 Homelab | Automation | IaC with Terraform</em><br>
+  <em> Homelab | Automation | IaC with Terraform</em><br>
   <em>🎬 Find my videos on YouTube (link below).</em>
 </p>
 
 ---
 
-### 🌐 Find me around the web:
+###  Find me around the web:
 
 <p align="left">
   <a href="https://woitzik.dev" target="_blank">
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🎓 Credentials & Certifications
+###  Credentials & Certifications
 
 * **HashiCorp Certified:** Terraform Associate
 * **Microsoft Certified:** Azure Fundamentals (AZ-900)
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=woitzik-labs&show_icons=true&theme=dracula&rank_icon=github" alt="woitzik-labs GitHub stats" />
