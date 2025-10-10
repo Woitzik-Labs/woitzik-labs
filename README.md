@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Woitzik-Labs/woitzik-labs/blob/main/assets/dwlabs.png](https://github.com/Woitzik-Labs/woitzik-labs/blob/main/assets/dwlabs.png)" alt="Woitzik Labs Logo" width="150"/>
+  <img src="https://github.com/Woitzik-Labs/woitzik-labs/raw/main/assets/dwlabs.png" alt="Woitzik Labs Logo" width="150"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm David. Welcome to Woitzik Labs!</h1>
