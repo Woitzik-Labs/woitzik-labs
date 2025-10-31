@@ -21,9 +21,6 @@
   <a href="https://www.youtube.com/@WoitzikLabs" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%40WoitzikLabs-red?style=for-the-badge&logo=youtube" alt="Woitzik Labs YouTube"/>
   </a>
-  <a href="https://www.linkedin.com/in/david-woitzik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
-  </a>
 </p>
 
 ---
